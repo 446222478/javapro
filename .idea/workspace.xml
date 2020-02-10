@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1804dec-47e1-4b59-a919-bf68714dd26e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Neuedu/Test0206/Mybook.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IdeaProjects\javapro\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQVVA8c6RvdVNF6MrWAzH3s2I3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Test01">
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Neuedu.Test0206.Test01" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Neuedu.Test0206.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02060" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Neuedu.Test02060" />
+      <module name="javapro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Neuedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test02060" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1804dec-47e1-4b59-a919-bf68714dd26e" name="Default Changelist" comment="" />
+      <created>1580978326992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580978326992</updated>
+      <workItem from="1580978330176" duration="1162000" />
+      <workItem from="1580986532176" duration="2564000" />
+      <workItem from="1581059616664" duration="1594000" />
+      <workItem from="1581316669667" duration="31000" />
+      <workItem from="1581317233541" duration="3658000" />
+    </task>
+    <task id="LOCAL-00001" summary="test01">
+      <created>1580983101416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580983101416</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Arraylist和Linkedlist的比较">
+      <created>1580994059457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580994059458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Arraylist和Linkedlist的比较">
+      <created>1581317492417</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581317492417</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test01" />
+    <MESSAGE value="Arraylist和Linkedlist的比较" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arraylist和Linkedlist的比较" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1581317491570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581317491570" />
+    <state x="546" y="253" key="Github.ShareDialog" timestamp="1580978345663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="253" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1580978345663" />
+    <state x="518" y="68" key="Github.UntrackedFilesDialog" timestamp="1580978352936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580978352936" />
+    <state width="1306" height="174" key="GridCell.Tab.0.bottom" timestamp="1581338103241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581338103241" />
+    <state width="1306" height="174" key="GridCell.Tab.0.center" timestamp="1581338103241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581338103241" />
+    <state width="1306" height="174" key="GridCell.Tab.0.left" timestamp="1581338103241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581338103241" />
+    <state width="1306" height="174" key="GridCell.Tab.0.right" timestamp="1581338103241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581338103241" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1581317514019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581317514019" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1580986570494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580986570494" />
+  </component>
+</project>
