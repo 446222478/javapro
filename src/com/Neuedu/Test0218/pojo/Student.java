@@ -7,7 +7,15 @@ public class Student {
     private Integer Sage;
     private String Sdept;
 
+    static {
+        System.out.println("静态代码块");//只执行一次
+    }
+    {
+        System.out.println("构造代码块");//调用一次构造方法就执行一次
+    }
+
     public Student() {
+        System.out.println("构造方法");//先执行代码块，后执行构造方法
     }
 
     public Student(Integer sno, String sname, String ssex, Integer sage, String sdept) {

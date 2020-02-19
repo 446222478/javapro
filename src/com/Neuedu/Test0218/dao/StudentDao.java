@@ -1,6 +1,7 @@
 package com.Neuedu.Test0218.dao;
 
 import com.Neuedu.Test0218.pojo.Student;
+import com.Neuedu.Test0218.util.JdbcUtil;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -56,7 +57,7 @@ public class StudentDao implements DaoInterface{
 
     @Override
     public  int add(Student student) {
-        int i = 0;
+/*        int i = 0;
         Connection connection = null;
         PreparedStatement preparedStatement = null;
 
@@ -88,12 +89,13 @@ public class StudentDao implements DaoInterface{
                 e.printStackTrace();
             }
         }
-        return i;
+        return i;*/
+        return JdbcUtil.executeUpdate("insert into Student(Sname,Ssex,Sage,Sdept) values(?,?,?,?,?)",student.getSname(),student.getSsex(),student.getSage(),student.getSdept());
     }
 
     @Override
     public int update(Student student) {
-        int i = 0;
+/*        int i = 0;
         Connection connection = null;
         PreparedStatement preparedStatement = null;
 
@@ -125,12 +127,15 @@ public class StudentDao implements DaoInterface{
                 e.printStackTrace();
             }
         }
-        return i;
+        return i;*/
+
+    return JdbcUtil.executeUpdate("update Student set Sname=?,Ssex=?,Sage=?,Sdept=? where Sno=?",student.getSno(),student.getSname(),student.getSsex(),student.getSage(),student.getSdept());
     }
+
 
     @Override
     public int del(int Sno) {
-        int i = 0;
+       /* int i = 0;
         Connection connection = null;
         PreparedStatement preparedStatement = null;
 
@@ -158,7 +163,9 @@ public class StudentDao implements DaoInterface{
                 e.printStackTrace();
             }
         }
-        return i;
+        return i;*/
+
+        return JdbcUtil.executeUpdate("delete from Student where Sno=?",Sno);
     }
 
     @Override
